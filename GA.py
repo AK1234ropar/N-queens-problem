@@ -3,8 +3,7 @@ import copy
 import math
 import numpy as np
 
-"""reference help taken from:https://github.com/waqqasiq/n-queen-problem-using-genetic-algorithm and
-"""
+
 
 result=[]
 
